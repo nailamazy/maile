@@ -13,4 +13,4 @@ RESET_TTL_SECONDS = "3600"
 [[d1_databases]]
 binding = "DB"
 database_name = "mail_portal"
-database_id = "5ff72936-f970-4cfc-ae0f-e7c2d8a82877"
+database_id = "abb51976-d902-4130-aa14-af41a441def7"
